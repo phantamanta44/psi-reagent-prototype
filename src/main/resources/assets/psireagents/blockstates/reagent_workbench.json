@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "psireagents:reagent_workbench"
+    }
+  }
+}

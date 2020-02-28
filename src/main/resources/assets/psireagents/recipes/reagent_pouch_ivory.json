@@ -1,0 +1,31 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ISI",
+    "LDL",
+    "ILI"
+  ],
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIvoryPsi"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "string"
+    },
+    "L": {
+      "type": "forge:ore_dict",
+      "ore": "leather"
+    }
+  },
+  "result": {
+    "item": "psireagents:reagent_store",
+    "count": 1,
+    "data": 4
+  }
+}

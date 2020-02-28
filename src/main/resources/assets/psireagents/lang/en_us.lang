@@ -1,0 +1,33 @@
+itemGroup.psireagents=Psi Reagents
+
+tile.psireagents:reagent_workbench.name=Reagent Workbench
+
+item.psireagents:reagent_store0.name=Iron-Banded Reagent Pouch
+item.psireagents:reagent_store1.name=Gold-Trimmed Reagent Pouch
+item.psireagents:reagent_store2.name=Psimetal-Plated Reagent Pouch
+item.psireagents:reagent_store3.name=Ebony-Aspected Reagent Pouch
+item.psireagents:reagent_store4.name=Ivory-Studded Reagent Pouch
+
+item.psireagents:reagent_store_creative.name=Creative Reagent Pouch
+
+psireagents.misc.gui.reagent_workbench=Reagent Workbench
+
+psireagents.misc.tooltip.efficiency=Efficiency
+psireagents.misc.tooltip.capacity=Capacity
+psireagents.misc.tooltip.reagent_cost=Reagent Cost
+psireagents.misc.tooltip.reagent_cost_desc=Reagents consumed per cast
+
+psireagents.misc.reagent.elem_fire=Fire
+psireagents.misc.reagent.elem_water=Water
+psireagents.misc.reagent.elem_earth=Earth
+psireagents.misc.reagent.elem_air=Air
+psireagents.misc.reagent.arch_conjure=Conjuration
+psireagents.misc.reagent.arch_modify=Alteration
+psireagents.misc.reagent.arch_growth=Restoration
+psireagents.misc.reagent.arch_decay=Degradation
+
+psireagents.misc.spell_cancel.missing_reagents=You don't have enough reagents to cast that Spell.
+
+psireagents.misc.cmd_feedback.reloaded=Reloaded costs. See server log for more details.
+
+psireagents.misc.keybind.reagent_store_inv=Reagent Pouch Inventory

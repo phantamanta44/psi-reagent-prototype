@@ -1,0 +1,35 @@
+{
+  "9s": "pi",
+  "archetype": {
+    "parent": "item/generated"
+  },
+  "mutations": {
+    "type": {
+      "IRON": {
+        "textures": {
+          "layer0": "psireagents:items/reagent_store_iron"
+        }
+      },
+      "GOLD": {
+        "textures": {
+          "layer0": "psireagents:items/reagent_store_gold"
+        }
+      },
+      "PSIMETAL": {
+        "textures": {
+          "layer0": "psireagents:items/reagent_store_psimetal"
+        }
+      },
+      "EBONY": {
+        "textures": {
+          "layer0": "psireagents:items/reagent_store_ebony"
+        }
+      },
+      "IVORY": {
+        "textures": {
+          "layer0": "psireagents:items/reagent_store_ivory"
+        }
+      }
+    }
+  }
+}

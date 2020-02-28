@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "psireagents:items/reagent_store_creative"
+  }
+}

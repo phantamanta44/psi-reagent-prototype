@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "psireagents:blocks/reagent_workbench_side",
+    "up": "psireagents:blocks/reagent_workbench_top",
+    "north": "psireagents:blocks/reagent_workbench_side",
+    "east": "psireagents:blocks/reagent_workbench_side",
+    "south": "psireagents:blocks/reagent_workbench_side",
+    "west": "psireagents:blocks/reagent_workbench_side",
+    "down": "psireagents:blocks/reagent_workbench_bottom"
+  }
+}

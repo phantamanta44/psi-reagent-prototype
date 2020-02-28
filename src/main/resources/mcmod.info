@@ -1,0 +1,17 @@
+[
+{
+  "modid": "psireagents",
+  "name": "Psi Reagent Prototype",
+  "description": "An experimental implementation of a reagent-based cost system for psi spells.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["phantamanta44"],
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "dependencies": ["libnine", "psi"],
+  "requiredMods": ["libnine@[1.1.5,)", "psi"]
+}
+]
